@@ -1,0 +1,8 @@
+*.ini
+*~
+out/*
+myspin 
+mysplit 
+mystop 
+myint
+tsh
